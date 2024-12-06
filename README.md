@@ -7,5 +7,4 @@ Este es un proyecto de Power BI que muestra visualizaciones sobre [tema del proy
 2. Ábrelo en Power BI Desktop para ver las visualizaciones.
 3. Asegúrate de conectar los datos si están disponibles externamente.
 
-## Autor
-diego bringas
+
