@@ -13,6 +13,7 @@ Este es un proyecto de Power BI que muestra visualizaciones sobre [tema del proy
 1. SQL
 2. POWER BI
 
-
+## Resultado final
+![Dashboard Final](pizzapbi.png)
 
 
