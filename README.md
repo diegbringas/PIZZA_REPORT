@@ -10,6 +10,32 @@ Este es un proyecto de Power BI que muestra visualizaciones sobre Venta de pizza
 4. Ábre el Power BI Desktop para ver las visualizaciones y conetctarlo con el SQL.
 5. Asegúrate de conectar los datos si están disponibles externamente.
 
+## Queries
+1.total revenue: sum of total prices
+2.Average order value
+3.total pizza vendidas
+4.total orders
+5.Average pizzas per Order
+
+6.orders for days
+7.orders for months
+8.% de ventas por categoria 
+9.top 5 pizza por revenue
+10.bottom 5 pizzas por revenue
+11.top 5 por cantidad
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Herramientas
 1. SQL
 2. POWER BI
