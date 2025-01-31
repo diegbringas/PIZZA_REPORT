@@ -1,6 +1,7 @@
 # Power BI Dashboard
 
-Este es un proyecto de Power BI que muestra visualizaciones sobre [tema del proyecto].
+Este es un proyecto de Power BI que muestra visualizaciones sobre Venta de pizzas, el dataset es de la pagina Kaggle y el link es [Pizza Sales](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
+.
 
 ## Instrucciones
 1. Descarga el archivo 'pizza_sales' y `nombre-proyecto.pbix`.
